@@ -1,5 +1,7 @@
 node_modules
 
+.vscode/
+
 /server/index.js
 /public/build
 preferences.arc
